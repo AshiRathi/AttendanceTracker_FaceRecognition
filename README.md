@@ -69,6 +69,10 @@ Login Page:
 - USERNAME: bb@gmail.com
 - PASSWORD: bb
 
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822780-1ca066ea-7ba4-4297-b73c-12bcc8b44571.png">
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822830-4a20716a-e26b-4d40-9cf3-5909f45a4286.png">
+
 Used: tkinter, pillow, mysql, cv2, time, os, datetime, numpy, opencv, haarcascade_frontalface_default.xml, tcl86t.dll, tk86t.dll
 
 Database: MySql
