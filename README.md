@@ -89,6 +89,9 @@ pip install opencv-python
 pip install pillow
 pip install face_recognition
 
+TO RUN:
+- VISUAL STUDIO BUILD TOOLS Version 14 or above
+- cx_freeze
 - C:\Users\ashir\AppData\Local\Programs\Face Recognition\
 - python setup.py bdist_msi
 
