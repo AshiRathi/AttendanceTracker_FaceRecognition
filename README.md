@@ -1,6 +1,7 @@
 # AttendanceTracker_FaceRecognition + CHATBOT
 The proposed project is a smart method for managing attendance and record-keeping using face recognition.
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170821871-276dd02b-e00a-49a7-a576-4afc215c3e6d.png">
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822340-993f0ff3-2a6b-4637-b36c-2ab15cfb4250.png">
 
 # INTRODUCTION:
 Mr. Pablo Picasso, epitome of art, once quoted, “Who sees the human face correctly: the photographer, the mirror, or the painter?” - 
