@@ -22,17 +22,17 @@ Every organization requires a robust and stable system to record the attendance 
 
 # METHODOLOGY:
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170821947-fb4c7fa7-e85d-4d91-b1b6-2fc0436e9721.png">
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822225-3eecc5be-5c01-4103-93f3-37530e7b4aa6.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170821959-d8a8494f-06e6-466a-a5cb-7f000575e0f2.png">
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822236-8a4e4cda-1271-4b4f-bd20-552ceb36ff52.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170821965-348720ca-181c-4eb3-8a38-c9272f10c2f7.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/91864520/170822244-957fd6df-7668-4693-9b1e-364249d81029.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170821975-11afeb1d-3766-49e7-803f-a60dc7cb4fd3.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/91864520/170822258-324bff40-a9e3-45de-9bfd-bc2fcabb8dde.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170822171-64727000-bd38-4d04-a0c6-7bd36f03770b.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/91864520/170822289-8ede0240-9063-410c-808f-0acdf63bc340.png">
 
-<img width="444" alt="image" src="https://user-images.githubusercontent.com/91864520/170822008-78d81dab-197e-4701-a23e-3c95538b8a47.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/91864520/170822293-89b7f507-ce3b-4a29-b457-a3fd19f7df83.png">
 
 # LIBRARIES:
 - Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.
@@ -56,9 +56,8 @@ pip install Pillow
 #RESOURCES
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
 
-<img width="442" alt="image" src="https://user-images.githubusercontent.com/91864520/170822095-2601e69e-168b-470b-aed1-3b1c63458881.png">
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822306-252bcddb-2d0d-4f25-8a45-8e88a22986b8.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170822112-54df500a-a10c-48d9-8c53-007f8755d97f.png">
+<img width="884" alt="image" src="https://user-images.githubusercontent.com/91864520/170822320-da141c91-aca1-439d-9374-3da71f0219ce.png">
 
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/91864520/170822126-4d9c0500-e6c7-443f-abf2-531ebda37998.png">
-
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
