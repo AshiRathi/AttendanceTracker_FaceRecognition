@@ -67,6 +67,30 @@ Login Page:
 - USERNAME: bb@gmail.com
 - PASSWORD: bb
 
+Used: tkinter, pillow, mysql, cv2, time, os, datetime, numpy, opencv, haarcascade_frontalface_default.xml, tcl86t.dll, tk86t.dll
+
+Database: MySql
+
+Languages: Python and MySql
+
+Face Recognition Algorithms: Haar Cascade, LBPH (Local Binary Pattern Histogram)
+
+
+Softwares Used - VS CODE, MySql Workbench, Git
+
+pip install numpy
+pip install opencv-python
+pip install pillow
+pip install face_recognition
+
+Following functionalities can be performed:
+• Login
+• Register new employees to the system
+• Add employee photos to the training data set
+• Train the model
+• View attendance report of all employees. 
+• Ask queries to the chatbot.
+
 # RESOURCES
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
 
