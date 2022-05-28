@@ -1,13 +1,16 @@
 # AttendanceTracker_FaceRecognition + CHATBOT
+
 The proposed project is a smart method for managing attendance and record-keeping using face recognition.
 
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/91864520/170822340-993f0ff3-2a6b-4637-b36c-2ab15cfb4250.png">
 
 # INTRODUCTION:
+
 Mr. Pablo Picasso, epitome of art, once quoted, “Who sees the human face correctly: the photographer, the mirror, or the painter?” - 
 I'll add to it, its indeed the code. 
 
 # FACE RECOGNITION:
+
 Face is the representation of one’s identity. Today, it is considered to be the most natural of all biometric measurements . And for a good reason, we recognize ourselves not by looking at our fingerprints or irises, for example, but by looking at our faces.  Of course, other signatures via the human body also exist, such as fingerprints, iris scans, voice recognition, digitization of veins in the palm, and behavioral measurements.
 Why face recognition, then? 
 Facial biometrics continues to be the preferred biometric benchmark. That is because it is easy to deploy and implement and there is no physical interaction with the end-user. Moreover, face detection and face match processes for verification/identification are speedy.
@@ -23,6 +26,7 @@ Step 3: Converting the image to data
 Step 4: Finding a match from the existing database
 
 # ATTENDANCE TRACKING:
+
 Every organization requires a robust and stable system to record the attendance of their students. and every the organization have their method to do so, some are taking attendance manually with a sheet of paper and some have adopted biometrics systems such as fingerprints, RFID cardreader, Iris system to mark the attendance. In the RFID card system, each employee is assigned a card with their the corresponding identity but there is a chance of card loss or an unauthorized person may misuse the card for fake attendance. While in other biometrics such as fingerprint, iris or voice recognition, they all are not 100% accurate.
 
 # METHODOLOGY:
@@ -42,6 +46,7 @@ Every organization requires a robust and stable system to record the attendance 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822306-252bcddb-2d0d-4f25-8a45-8e88a22986b8.png">
 
 # LIBRARIES:
+
 - Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.
 - Pandas - is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
 - Haar Cascade - is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
@@ -54,13 +59,14 @@ pip install pandas
 pip install Pillow
 
 # INSTRUCTIONS TO RUN:
+
 - First download or clone the project
 - Import the project to your favourite IDE
 - Create a python enviroment
 - Install all the packages
 - Run the project using the command line or your IDE Run Button
 
-# REQUIREMENTS
+# REQUIREMENTS:
 
 MySql:
 - PASSWORD: 1234
@@ -103,12 +109,19 @@ Following functionalities can be performed:
 • View attendance report of all employees. 
 • Ask queries to the chatbot.
 
-# RESOURCES
+# RESOURCES:
+
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
 
-# PROCESS
+# LINKS:
+PRESENTATION:
+VIDEO:
+DRIVE:
+
+# PROCESS:
 
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/91864520/170822320-da141c91-aca1-439d-9374-3da71f0219ce.png">
 
-# REFERENCES
+# REFERENCES:
+
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
