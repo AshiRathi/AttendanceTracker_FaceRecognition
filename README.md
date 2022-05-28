@@ -13,9 +13,13 @@ Why face recognition, then?
 Facial biometrics continues to be the preferred biometric benchmark. That is because it is easy to deploy and implement and there is no physical interaction with the end-user. Moreover, face detection and face match processes for verification/identification are speedy.
 How does face recognition work? 
 Facial technology systems can vary, but in general, they tend to include four operational steps:
+
 Step 1: Face detection
+
 Step 2: Face analysis
+
 Step 3: Converting the image to data
+
 Step 4: Finding a match from the existing database
 
 # ATTENDANCE TRACKING:
@@ -48,11 +52,11 @@ pip install pandas
 pip install Pillow
 
 # INSTRUCTIONS TO RUN:
-○ First download or clone the project
-○ Import the project to your favourite IDE
-○ Create a python enviroment
-○ Install all the packages
-○ Run the project using the command line or your IDE Run Button
+- First download or clone the project
+- Import the project to your favourite IDE
+- Create a python enviroment
+- Install all the packages
+- Run the project using the command line or your IDE Run Button
 
 #RESOURCES
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
