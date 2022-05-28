@@ -115,9 +115,7 @@ The facial features are registered into the database folder by using the facial 
 
 # LINKS:
 
-PRESENTATION:
-
-VIDEO:
+PRESENTATION: https://drive.google.com/file/d/1bv333gbraPcSkHkIgiVXbrX1JKuKNB8C/view?usp=sharing
 
 DRIVE: https://drive.google.com/drive/folders/1kTIkgdzLBcqv38lmqN9JG8e4gWxAdDnU?usp=sharing
 
