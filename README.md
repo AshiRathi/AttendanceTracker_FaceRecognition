@@ -83,6 +83,9 @@ pip install opencv-python
 pip install pillow
 pip install face_recognition
 
+- C:\Users\ashir\AppData\Local\Programs\Face Recognition\
+- python setup.py bdist_msi
+
 Following functionalities can be performed:
 • Login
 • Register new employees to the system
