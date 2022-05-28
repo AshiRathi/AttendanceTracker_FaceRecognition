@@ -114,9 +114,12 @@ Following functionalities can be performed:
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
 
 # LINKS:
+
 PRESENTATION:
+
 VIDEO:
-DRIVE:
+
+DRIVE: https://drive.google.com/drive/folders/1kTIkgdzLBcqv38lmqN9JG8e4gWxAdDnU?usp=sharing
 
 # PROCESS:
 
