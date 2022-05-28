@@ -107,5 +107,5 @@ The facial features are registered into the database folder by using the facial 
 
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/91864520/170822320-da141c91-aca1-439d-9374-3da71f0219ce.png">
 
-#
+# REFERENCES
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822325-01fad7d0-688e-43fe-9661-d860370d7093.png">
