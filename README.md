@@ -58,7 +58,16 @@ pip install Pillow
 - Install all the packages
 - Run the project using the command line or your IDE Run Button
 
-#RESOURCES
+# REQUIREMENTS
+
+MySql:
+- PASSWORD: 1234
+
+Login Page:
+- USERNAME: bb@gmail.com
+- PASSWORD: bb
+
+# RESOURCES
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822306-252bcddb-2d0d-4f25-8a45-8e88a22986b8.png">
