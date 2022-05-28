@@ -35,7 +35,12 @@ Every organization requires a robust and stable system to record the attendance 
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/91864520/170822008-78d81dab-197e-4701-a23e-3c95538b8a47.png">
 
 # LIBRARIES:
-○ Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.○ Pandas - is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.○ Haar Cascade - is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.○ Datetime - It’s a combination of date and time along with the attributes year, month, day, hour, minute, second, microsecond, and info.○ Face_Recognition - Recognize and manipulate faces from Python or the command line with the world’s simplest face recognition library.○ OpenCV - a library of programming functions primarily geared toward real-time computer vision.
+- Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.
+- Pandas - is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
+- Haar Cascade - is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
+- Datetime - It’s a combination of date and time along with the attributes year, month, day, hour, minute, second, microsecond, and info.
+- Face_Recognition - Recognize and manipulate faces from Python or the command line with the world’s simplest face recognition library. 
+- OpenCV - a library of programming functions primarily geared toward real-time computer vision.
 pip install opencv-contrib-python
 pip install numpy
 pip install pandas
