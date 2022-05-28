@@ -39,6 +39,8 @@ Every organization requires a robust and stable system to record the attendance 
 
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/91864520/170822293-89b7f507-ce3b-4a29-b457-a3fd19f7df83.png">
 
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822306-252bcddb-2d0d-4f25-8a45-8e88a22986b8.png">
+
 # LIBRARIES:
 - Numpy - could be a library for Python, adding support for multi-dimensional arrays and matrices, in conjunction with an enormous assortment of high-level mathematical functions to operate on these arrays.
 - Pandas - is a fast, powerful, flexible, and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
@@ -96,8 +98,6 @@ Following functionalities can be performed:
 
 # RESOURCES
 The facial features are registered into the database folder by using the facial recognition xml file from the ‘OpenCV’ python library. Once the features are registered, the model is trained using the gathered features. The facial features are fetched from the database and the face of the student is recognized by comparing with existing values in the database. Facial Recognition is done using ‘OpenCV’ python library, particularly using ‘haarcascade’ code.
-
-<img width="886" alt="image" src="https://user-images.githubusercontent.com/91864520/170822306-252bcddb-2d0d-4f25-8a45-8e88a22986b8.png">
 
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/91864520/170822320-da141c91-aca1-439d-9374-3da71f0219ce.png">
 
